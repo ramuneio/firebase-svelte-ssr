@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# from sapper
+.DS_Store
+/node_modules/
+/src/node_modules/@sapper/
+yarn-error.log
+/cypress/screenshots/
+/__sapper__/
+/.firebase/hosting.c3RhdGlj.cache
+/.firebaserc
+functions/__sapper__/
